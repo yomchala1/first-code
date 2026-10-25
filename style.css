@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             background: linear-gradient(135deg, #2563eb, #7c3aed);
             min-height: 100vh;
-            display: flex;
+            display: inline-flex;
             justify-content: center;
             align-items: center;
         }
